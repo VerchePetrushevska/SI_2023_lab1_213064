@@ -1,0 +1,37 @@
+C:\Users\NeZnam\Desktop\SI_2023_lab1_213064>git log
+commit 808d1df4d6fdf4235d95fa79258cc5a66705ddc8 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Verche <verche.petrushevska@students.finki.ukim.mk>
+Date:   Thu Apr 6 03:48:19 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 4e801a0bcfa389119a027320f5f8ea0525019128
+Merge: 2791160 f161c2e
+Author: Verche <verche.petrushevska@students.finki.ukim.mk>
+Date:   Thu Apr 6 03:51:51 2023 +0200
+
+    Merge branch 'bug2'
+
+commit f161c2e3c27220561684c63db44101619a859aa9 (origin/bug2, bug2)
+Author: Verche <verche.petrushevska@students.finki.ukim.mk>
+Date:   Thu Apr 6 03:47:15 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 279116010a22f8caee1c09de2108ca76dd2ac9c4 (origin/bug1, bug1)
+Author: Verche <verche.petrushevska@students.finki.ukim.mk>
+Date:   Thu Apr 6 03:45:52 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 6fc2b455525b058452389ae0f87abf6b4a231a27
+Author: Verche <verche.petrushevska@students.finki.ukim.mk>
+Date:   Thu Apr 6 03:42:25 2023 +0200
+
+    Add Java class
+
+commit d3ba28990b9e3b713e70fed4db09abd27726af48
+Author: Verche <verche.petrushevska@students.finki.ukim.mk>
+Date:   Thu Apr 6 03:37:55 2023 +0200
+
+    Initial commit
